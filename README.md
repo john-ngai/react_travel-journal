@@ -8,3 +8,7 @@ Section 2 solo project from [Scrimba's free "Learn React"](https://scrimba.com/l
 * Data array in a separate .js file
   * Title, location, Google Maps link, start date, end date, description, & image URLs
 * Use .map() and props
+
+## Final Product
+
+![Final product](https://github.com/john-ngai/react_travel-journal/blob/main/docs/final-product.png)
