@@ -1,6 +1,6 @@
 # React Project - Travel Journal
 
-Section 1 solo project from [Scrimba's free "Learn React"](https://scrimba.com/learn/learnreact/) course taught by Bob Ziroll.
+Section 2 solo project from [Scrimba's free "Learn React"](https://scrimba.com/learn/learnreact/) course taught by Bob Ziroll.
 
 ## Requirements
 
