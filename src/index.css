@@ -5,7 +5,9 @@
 body {
   background-color: #E5E5E5;
   font-family: 'Inter', sans-serif;
+  min-width: 550px;
 }
+
 
 /* START - Navbar component */
 nav {
@@ -29,3 +31,17 @@ nav {
   color: #FFF;
 }
 /* END - Navbar component */
+
+
+/* START - TravelList component */
+.container--travel-list {
+  position: relative;
+  top: 75px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 470px;
+  height: 500px;
+  background-color: #FFF;
+  border-radius: 5px;
+}
+/* END - TravelList component */
