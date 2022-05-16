@@ -1,7 +1,7 @@
 export default [
   {
     title: "Mount Fuji",
-    location: "Japan",
+    location: "JAPAN",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
@@ -10,7 +10,7 @@ export default [
   },
   {
     title: "Sydney Opera House",
-    location: "Australia",
+    location: "AUSTRALIA",
     googleMapsUrl: "https://goo.gl/maps/xL8XfMvAU464bzYs5",
     startDate: "27 May, 2021",
     endDate: "8 June, 2021",
@@ -19,7 +19,7 @@ export default [
   },
   {
     title: "Geirangerfjord",
-    location: "Norway",
+    location: "NORWAY",
     googleMapsUrl: "https://goo.gl/maps/z4nyySN8vBmGQiz87",
     startDate: "01 Oct, 2021",
     endDate: "18 Nov, 2021",
